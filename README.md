@@ -27,6 +27,15 @@ As músicas foram transcritas por meio do editor de partituras Guitar Pro versã
 <p>Álbum: Hammer Of The Gods</p>
 <p>Sobre: Essa música faz parte do primeiro álbum da banda.</p>
 <p><a href="https://www.youtube.com/watch?v=lK-c0lyc8-M" target="_blank">Link do vídeo da música Voices</a></p>
+<p><a href="https://www.cifraclub.com.br/hammer-of-the-gods/desert-inside-/guitarpro/">Enviada para o Cifra Club</a></p>
+
+
+<hr>
+
+<h2>Broken Glass</h2>
+<p>Álbum: Hammer Of The Gods</p>
+<p>Sobre: Essa música faz parte do primeiro álbum da banda.</p>
+<p><a href="https://www.youtube.com/watch?v=iITCO_OiaLY" target="_blank">Link do vídeo da música Broken Glass</a></p>
 
 
 <hr>
