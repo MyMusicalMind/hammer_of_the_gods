@@ -46,7 +46,7 @@ As músicas foram transcritas por meio do editor de partituras Guitar Pro versã
 <p><a href="https://www.youtube.com/watch?v=eBHI-me0waY" target="_blank">Link do vídeo da música Voices</a></p>
 <p><a href="https://www.cifraclub.com.br/hammer-of-the-gods/voices/guitarpro/twpkz.html">Enviada para o Cifra Club</a></p>
 
-
+<hr>
 
 
 
